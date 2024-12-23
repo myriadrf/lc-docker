@@ -2,7 +2,7 @@
 
 This repository contains the Docker container image sources for the LibreCellular RAN, EPC and IMS stack.
 
-The configurations are based on the [docker_open5gs project](https://github.com/herlesupreeth/docker_open5gs/), wuth numerous changes.
+The configurations are based on the [docker_open5gs project](https://github.com/herlesupreeth/docker_open5gs/), with numerous changes.
 
 Issues should be logged to the issue tracker on this repo.
 
